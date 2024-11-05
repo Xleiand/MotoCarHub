@@ -90,5 +90,26 @@ L'obiettivo di quest'applicazione è facilitare l’incontro tra chi cerca e chi
 - ## Modalità di prova su strada
   - Funzionalità per i venditori professionisti che permette di prenotare prove su strada direttamente dall'app, gestendo gli orari e i giorni disponibili.
  
+# Tecnologie utilizzate
+- ## Frontend
+  -  **React Native**
+  -  **React.js o Vue.js**
+ 
+- ## Backend
+  - **Django (Python)**
+ 
+- ## Database
+  - **MongoDB**
+ 
+- ## Funzionalità di Ricerca e Filtri Avanzati
+  - **Elasticsearch**
+ 
+- ## Notifiche e Messaggistica
+  - **Firebase Cloud Messaging (FCM)**
+  - **Socket.io**
+ 
+- ## Analisi e Monitoraggio
+  - **Google Analytics**
+ 
 # Diagramma
 ![Alt text](http://yuml.me/6cdea9dc.svg)
