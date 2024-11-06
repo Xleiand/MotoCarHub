@@ -46,11 +46,11 @@ L'obiettivo di quest'applicazione è facilitare l’incontro tra chi cerca e chi
 - ## Pagamento interno all'app
 
 - ## Chat interna
-  - Chat per permettere di contattare il privato/rivenditore direttamente all'interno dell'app
+  - Chat per permettere di contattare il privato/rivenditore direttamente all'interno dell'app.
  
 - ## Notifiche
-  - In caso di sconto sul prezzo di un annuncio
-  - In caso sia stata inserita un nuovo annuncio che potrebbe interessare, in base alle ricerce
+  - In caso di sconto sul prezzo di un annuncio.
+  - In caso sia stata inserita un nuovo annuncio che potrebbe interessare, in base alle ricerce.
  
 # Requisiti non funzionali
 - ## Sicurezza
@@ -65,7 +65,7 @@ L'obiettivo di quest'applicazione è facilitare l’incontro tra chi cerca e chi
 - ## Manutenzione dell'app
 
 - ## Usabilità
-  - Tempi di risposte brevi
+  - Tempi di risposte brevi.
  
 # Funzionalità di dominio
 - ## Verifica dei rivenditori e degli annunci
@@ -119,7 +119,7 @@ L'obiettivo di quest'applicazione è facilitare l’incontro tra chi cerca e chi
 # Buisness
 - **Buisness Model**
   - Freemium: offro un abbonamento mensile che serve per aumentare la percentuale di volte che l'annuncio si presenta nel feed delle persone e possibilità di aggiungere più annuncio all'interno dell'app
-  - Marketplace: Presenza di una fee sulla transazioni interne all'app
+  - Marketplace: Presenza di una fee sulla transazioni interne all'app.
  
 - **Problema**
   - Molti acquirenti di veicoli usati temono truffe, annunci poco chiari e mancanza di informazioni affidabili. MotoCarHub risolve questo problema creando una piattaforma sicura dove privati e rivenditori verificati possono pubblicare annunci, permettendo agli utenti di confrontare facilmente opzioni, valutare caratteristiche e contattare venditori con fiducia.
@@ -134,4 +134,4 @@ L'obiettivo di quest'applicazione è facilitare l’incontro tra chi cerca e chi
   - MotoCarHub è la scelta ideale per chi cerca un marketplace sicuro e trasparente per auto e moto. Grazie a un sistema di verifica e strumenti avanzati, offre fiducia, facilità di confronto e opzioni di finanziamento. La piattaforma rende semplice ogni passo della compravendita, aiutando gli utenti a trovare veicoli affidabili in modo rapido e sicuro.
  
 - **Investimenti**
-  - Richiedo 150.000 € in cambio del 23% dell'applicativo
+  - Investimento di 150.000 € in cambio del 23% dell'applicativo.
