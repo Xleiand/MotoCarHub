@@ -43,6 +43,8 @@ L'obiettivo di quest'applicazione è facilitare l’incontro tra chi cerca e chi
  
 - ## Possibilità di salvare la ricerca/l'annuncio
 
+- ## Pagamento interno all'app
+
 - ## Chat interna
   - Chat per permettere di contattare il privato/rivenditore direttamente all'interno dell'app
  
@@ -113,3 +115,23 @@ L'obiettivo di quest'applicazione è facilitare l’incontro tra chi cerca e chi
  
 # Diagramma
 ![Alt text](http://yuml.me/6cdea9dc.svg)
+
+# Buisness
+- **Buisness Model**
+  - Freemium: offro un abbonamento mensile che serve per aumentare la percentuale di volte che l'annuncio si presenta nel feed delle persone e possibilità di aggiungere più annuncio all'interno dell'app
+  - Marketplace: Presenza di una fee sulla transazioni interne all'app
+ 
+- **Problema**
+  - Molti acquirenti di veicoli usati temono truffe, annunci poco chiari e mancanza di informazioni affidabili. MotoCarHub risolve questo problema creando una piattaforma sicura dove privati e rivenditori verificati possono pubblicare annunci, permettendo agli utenti di confrontare facilmente opzioni, valutare caratteristiche e contattare venditori con fiducia.
+ 
+- **Soluzione**
+  - L'app MotoCarHub facilita l'incontro tra acquirenti e venditori di auto e moto, sia nuove che usate, offrendo una piattaforma sicura e accessibile. Privati e rivenditori verificati possono pubblicare annunci facilmente, mentre gli utenti confrontano prezzi, valutano veicoli e contattano i venditori. L'obiettivo è rendere il processo di compravendita trasparente, intuitivo e sicuro, aiutando gli utenti a trovare veicoli affidabili.
+ 
+- **Competitor**
+  - Quest'applicazione rispetto ai competitor offre pagamenti interni all'app, verifica sugli annunci, calcolo del valore di mercato, storia del veicolo in base alla targa/VIN, possibilità di richiedere una prova su strada se resa disponibile dal venditore
+ 
+- **Perchè**
+  - MotoCarHub è la scelta ideale per chi cerca un marketplace sicuro e trasparente per auto e moto. Grazie a un sistema di verifica e strumenti avanzati, offre fiducia, facilità di confronto e opzioni di finanziamento. La piattaforma rende semplice ogni passo della compravendita, aiutando gli utenti a trovare veicoli affidabili in modo rapido e sicuro.
+ 
+- **Investimenti**
+  - Richiedo 150.000 € in cambio del 23% dell'applicativo
