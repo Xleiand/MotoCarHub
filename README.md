@@ -116,8 +116,8 @@ L'obiettivo di quest'applicazione è facilitare l’incontro tra chi cerca e chi
 # Diagramma
 ![Alt text](http://yuml.me/6cdea9dc.svg)
 
-# Buisness
-- **Buisness Model**
+# Business
+- **Business Model**
   - Freemium: offro un abbonamento mensile che serve per aumentare la percentuale di volte che l'annuncio si presenta nel feed delle persone e possibilità di aggiungere più annuncio all'interno dell'app
   - Marketplace: Presenza di una fee sulla transazioni interne all'app.
  
