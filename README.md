@@ -146,11 +146,11 @@ L'obiettivo è creare una piattaforma:
 
 ##  Diagramma UML
 
-_⚠️ UML da completare successivamente._
+![Alt text](https://yuml.me/dfab4489.png)
 
 ---
 
-## 🧠 Note Finali
+##  Note Finali
 
 - Alcune funzionalità erano **scritte ma non identificate chiaramente come funzionalità**: sono ora elencate correttamente.
 - Aggiunti i **dettagli sulle azioni nella chat** (invio, modifica, eliminazione).
