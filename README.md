@@ -146,7 +146,7 @@ L'obiettivo è creare una piattaforma:
 
 ##  Diagramma UML
 
-![Alt text](https://yuml.me/dfab4489.png)
+![Alt text](https://yuml.me/dfab4489.jpg)
 
 ---
 
