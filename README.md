@@ -1,137 +1,157 @@
 # MotoCarHub
-Il mercato delle due e quattro ruote, sempre con te
 
-# Descrizione progetto
-Questa applicazione è progettata per rivoluzionare la compravendita di auto e moto, nuove e usate, creando uno spazio sicuro e affidabile dove sia i privati che i rivenditori verificati possono pubblicare i loro annunci. Grazie a una piattaforma intuitiva e di facile utilizzo, gli utenti hanno accesso a una vasta gamma di strumenti per contattare venditori, confrontare prezzi e scegliere i veicoli migliori in base alle proprie esigenze. La presenza di venditori verificati garantisce un’esperienza di acquisto più sicura, mentre la possibilità di confrontare rapidamente le opzioni rende più semplice trovare il veicolo ideale in modo trasparente e veloce.
+## 📌 Descrizione del Progetto
 
-# Obiettivo del progetto
-L'obiettivo di quest'applicazione è facilitare l’incontro tra chi cerca e chi vende auto e moto, sia nuove che usate, creando una piattaforma sicura, affidabile e accessibile. Permette a privati e rivenditori verificati di pubblicare annunci in modo semplice e rapido, mentre gli utenti possono confrontare prezzi, valutare le caratteristiche dei veicoli e contattare facilmente i venditori. L'app mira a rendere il processo di compravendita più trasparente e intuitivo, aiutando gli utenti a trovare veicoli affidabili e a concludere transazioni in tutta sicurezza.
+**MotoCarHub** è un'applicazione progettata per rivoluzionare il mercato della compravendita di auto e moto, sia nuove che usate. Offre un ambiente sicuro e affidabile dove privati e rivenditori verificati possono pubblicare annunci, confrontare prezzi, valutare veicoli e contattare direttamente i venditori.
 
-# Competitor
-1. **Autoscout24**: Piattaforma europea per la compravendita di auto, offre ampio database e strumenti di ricerca avanzati.
-2. **Subito.it**: Marketplace italiano per annunci di compravendita vari, incluse auto e moto usate.
-3. **Facebook Marketplace**: Sezione di Facebook per vendite locali di ogni tipo, inclusi veicoli, da privati e professionisti.
+Grazie a un’interfaccia intuitiva e a funzionalità avanzate, MotoCarHub semplifica l’incontro tra domanda e offerta nel mercato delle due e quattro ruote.
 
-# Requisiti funzionali
-- ## Creazione account
-  - Nome utente
-  - Email
-  - Password
-  - Venditore privato/rivenditore
-  - In caso di rivenditore, possibilità di inserire il sito del concessionario, e il luogo
- 
-- ## Inserimento annuncio
-  - Foto del veicolo
-  - Tipo di veicolo (moto/auto)
-  - Nome e modello
-  - Caratteristiche del veicolo
-  - Descrizione del veicolo
-  - Luogo della vendita
-  - Numero di telefono (opzionale)
-  - Prezzo
- 
-- ## Filtri per la ricerca
-  - Solo auto
-  - Solo moto
-  - In base alla marca/modello
-  - In base al prezzo
-  - In base ai km
-  - In base al luogo
-  - In base all'anno
-  - In base alla potenza
-  - In base al tipo di venditore (privato/rivenditori)
- 
-- ## Possibilità di salvare la ricerca/l'annuncio
+---
 
-- ## Pagamento interno all'app
+## 🎯 Obiettivo
 
-- ## Chat interna
-  - Chat per permettere di contattare il privato/rivenditore direttamente all'interno dell'app.
- 
-- ## Notifiche
-  - In caso di sconto sul prezzo di un annuncio.
-  - In caso sia stata inserita un nuovo annuncio che potrebbe interessare, in base alle ricerce.
- 
-# Requisiti non funzionali
-- ## Sicurezza
-  - Sicurezza sulla chat interna
-  - Protezione dei dati
- 
-- ## Compatibilità
-  - Android
-  - iOS
-  - Windows
- 
-- ## Manutenzione dell'app
+L'obiettivo è creare una piattaforma:
 
-- ## Usabilità
-  - Tempi di risposte brevi.
- 
-# Funzionalità di dominio
-- ## Verifica dei rivenditori e degli annunci
-  - Sistema di verifica per i rivenditori e i loro annunci, con controlli di identità e approvazione prima della pubblicazione, per garantire un mercato sicuro.
- 
-- ## Calcolo del valore di mercato
-  - Un tool di valutazione automatica che permette agli utenti di conoscere il valore medio di mercato per un veicolo specifico in base a marca, modello, anno, km, e condizioni attuali, utilizzando dati di vendita storici.
- 
-- ## Rilevatore di annunci sospetti
-  - Sistema di rilevamento di annunci potenzialmente fraudolenti basato su criteri come descrizioni incomplete, foto non autentiche o informazioni anomale, per garantire una maggiore affidabilità.
- 
-- ## Opzioni di finanziamento e preventivi assicurativi
-  - Collaborare con istituti finanziari e assicurativi per offrire preventivi direttamente nella piattaforma, così gli utenti possono calcolare le rate di finanziamento e avere un’idea dei costi assicurativi.
- 
-- ## Stima dei costi di manutenzione futuri
-  - Una funzione che stima i possibili costi di manutenzione futuri basandosi sul chilometraggio e sull’età del veicolo, fornendo così una valutazione dei costi di gestione per il potenziale acquirente.
- 
-- ## Storia del veicolo basata su targa o VIN
-  - Collegamento a banche dati per verificare la storia del veicolo tramite il VIN (Vehicle Identification Number) o la targa, ottenendo informazioni su precedenti incidenti, proprietà, e letture del contachilometri.
- 
-- ## Consigli sugli annunci 
-  - Algoritmi che suggeriscono ai venditori i migliori orari e modi per pubblicare gli annunci in modo da raggiungere più acquirenti e aumentare le possibilità di vendita.
+- Sicura e accessibile
+- Intuitiva da usare
+- Trasparente nel processo di acquisto/vendita
+- Ricca di strumenti utili per l'utente
 
-- ## Modalità di prova su strada
-  - Funzionalità per i venditori professionisti che permette di prenotare prove su strada direttamente dall'app, gestendo gli orari e i giorni disponibili.
- 
-# Tecnologie utilizzate
-- ## Frontend
-  -  **React Native**
-  -  **React.js o Vue.js**
- 
-- ## Backend
-  - **Django (Python)**
- 
-- ## Database
-  - **MongoDB**
- 
-- ## Funzionalità di Ricerca e Filtri Avanzati
-  - **Elasticsearch**
- 
-- ## Notifiche e Messaggistica
-  - **Firebase Cloud Messaging (FCM)**
-  - **Socket.io**
- 
-- ## Analisi e Monitoraggio
-  - **Google Analytics**
- 
-# Diagramma
-![Alt text](http://yuml.me/6cdea9dc.svg)
+---
 
-# Business
-- **Business Model**
-  - Freemium: offro un abbonamento mensile che serve per aumentare la percentuale di volte che l'annuncio si presenta nel feed delle persone e possibilità di aggiungere più annuncio all'interno dell'app
-  - Marketplace: Presenza di una fee sulla transazioni interne all'app.
- 
-- **Problema**
-  - Molti acquirenti di veicoli usati temono truffe, annunci poco chiari e mancanza di informazioni affidabili. MotoCarHub risolve questo problema creando una piattaforma sicura dove privati e rivenditori verificati possono pubblicare annunci, permettendo agli utenti di confrontare facilmente opzioni, valutare caratteristiche e contattare venditori con fiducia.
- 
-- **Soluzione**
-  - L'app MotoCarHub facilita l'incontro tra acquirenti e venditori di auto e moto, sia nuove che usate, offrendo una piattaforma sicura e accessibile. Privati e rivenditori verificati possono pubblicare annunci facilmente, mentre gli utenti confrontano prezzi, valutano veicoli e contattano i venditori. L'obiettivo è rendere il processo di compravendita trasparente, intuitivo e sicuro, aiutando gli utenti a trovare veicoli affidabili.
- 
-- **Competitor**
-  - Quest'applicazione rispetto ai competitor offre pagamenti interni all'app, verifica sugli annunci, calcolo del valore di mercato, storia del veicolo in base alla targa/VIN, possibilità di richiedere una prova su strada se resa disponibile dal venditore
- 
-- **Perchè**
-  - MotoCarHub è la scelta ideale per chi cerca un marketplace sicuro e trasparente per auto e moto. Grazie a un sistema di verifica e strumenti avanzati, offre fiducia, facilità di confronto e opzioni di finanziamento. La piattaforma rende semplice ogni passo della compravendita, aiutando gli utenti a trovare veicoli affidabili in modo rapido e sicuro.
- 
-- **Investimenti**
-  - Investimento di 150.000 € in cambio del 23% dell'applicativo.
+## 🧑‍💼 Target
+
+- Privati (acquirenti o venditori)
+- Rivenditori professionisti
+- Amministratori del sistema
+- Potenziali acquirenti interessati a preventivi finanziari o assicurativi
+
+---
+
+## 🔍 Analisi dei Competitor
+
+1. **AutoScout24**: piattaforma europea molto nota con strumenti avanzati di ricerca.
+2. **Subito.it**: marketplace italiano generalista, include sezioni per auto e moto.
+3. **Facebook Marketplace**: accessibile ma poco regolamentato, usato sia da privati che da rivenditori.
+
+---
+
+## ✅ Requisiti Funzionali
+
+### 👤 Registrazione
+
+- Inserimento di: nome utente, email, password
+- Scelta tra utente privato o rivenditore
+- Per i rivenditori: inserimento sito web e luogo sede
+
+### 📢 Inserimento Annuncio
+
+- Foto del veicolo
+- Tipo di veicolo (auto/moto)
+- Marca, modello
+- Caratteristiche tecniche
+- Descrizione dettagliata
+- Luogo
+- Prezzo
+- Numero di telefono (opzionale)
+
+### 🔎 Ricerca con Filtri
+
+- Per tipologia: solo auto / solo moto
+- Marca e modello
+- Prezzo
+- Chilometraggio
+- Anno
+- Potenza
+- Tipo venditore
+- Luogo
+
+### 💬 Chat interna
+
+- Sistema di messaggistica per contattare privati/rivenditori
+- Possibilità di **inviare, modificare e cancellare** messaggi
+
+### ⭐ Salvataggio
+
+- Salvare **annunci**
+- Salvare **ricerche**
+
+### 🔔 Notifiche
+
+- In caso di:
+  - Sconto su un annuncio salvato
+  - Pubblicazione di annunci compatibili con le ricerche salvate
+
+---
+
+## 🚫 Requisiti Non Funzionali
+
+- **Compatibilità**: Android, iOS, Windows
+- **Prestazioni**: Tempi di risposta brevi
+- **Sicurezza**: protezione dei dati e delle comunicazioni
+- **Verifica venditori**: controllo identità e approvazione degli annunci
+
+---
+
+## ⚙️ Funzionalità Avanzate
+
+- 🔒 Verifica rivenditori e annunci
+- 📈 Calcolo del valore di mercato del veicolo
+- 🚨 Rilevamento annunci sospetti (AI, regole)
+- 💰 Calcolo preventivi per finanziamento/assicurazione
+- 🛠️ Stima costi manutenzione futuri
+- 🧾 Verifica storia del veicolo (VIN o targa)
+- 🕒 Suggerimenti per orari migliori di pubblicazione
+- 🚗 Prenotazione test drive per rivenditori professionisti
+
+---
+
+## 🛠️ Tecnologie Utilizzate
+
+### 🌐 Frontend
+
+- React Native
+- React.js o Vue.js
+
+### 🔙 Backend
+
+- Django (Python)
+
+### 🗃️ Database
+
+- MongoDB
+- Elasticsearch
+
+### 🔔 Notifiche & Realtime
+
+- Firebase Cloud Messaging (FCM)
+- Socket.io
+
+### 📊 Analisi
+
+- Google Analytics
+
+---
+
+## 🧩 Ruoli degli Utenti
+
+| Ruolo         | Funzionalità chiave                                                                      |
+|---------------|------------------------------------------------------------------------------------------|
+| **Privato**   | Registrazione, pubblicazione annunci, ricerca, salvataggio, chat, notifiche             |
+| **Rivenditore**| Come privato + verifica identità, sito aziendale, gestione test drive                   |
+| **Acquirente**| Ricerca, salvataggio, contatto venditore, stima valore, finanziamenti, manutenzione     |
+| **Admin**     | Moderazione utenti e annunci, verifica sicurezza, gestione piattaforma                   |
+
+---
+
+## 📌 Diagramma UML
+
+_⚠️ UML da completare successivamente._
+
+---
+
+## 🧠 Note Finali
+
+- Alcune funzionalità erano **scritte ma non identificate chiaramente come funzionalità**: sono ora elencate correttamente.
+- Aggiunti i **dettagli sulle azioni nella chat** (invio, modifica, eliminazione).
+- Specificati i **target** e chiariti i ruoli.
