@@ -1,6 +1,6 @@
 # MotoCarHub
 
-## 📌 Descrizione del Progetto
+##  Descrizione del Progetto
 
 **MotoCarHub** è un'applicazione progettata per rivoluzionare il mercato della compravendita di auto e moto, sia nuove che usate. Offre un ambiente sicuro e affidabile dove privati e rivenditori verificati possono pubblicare annunci, confrontare prezzi, valutare veicoli e contattare direttamente i venditori.
 
@@ -8,7 +8,7 @@ Grazie a un’interfaccia intuitiva e a funzionalità avanzate, MotoCarHub sempl
 
 ---
 
-## 🎯 Obiettivo
+##  Obiettivo
 
 L'obiettivo è creare una piattaforma:
 
@@ -19,7 +19,7 @@ L'obiettivo è creare una piattaforma:
 
 ---
 
-## 🧑‍💼 Target
+##  Target
 
 - Privati (acquirenti o venditori)
 - Rivenditori professionisti
@@ -28,7 +28,7 @@ L'obiettivo è creare una piattaforma:
 
 ---
 
-## 🔍 Analisi dei Competitor
+##  Analisi dei Competitor
 
 1. **AutoScout24**: piattaforma europea molto nota con strumenti avanzati di ricerca.
 2. **Subito.it**: marketplace italiano generalista, include sezioni per auto e moto.
@@ -36,15 +36,15 @@ L'obiettivo è creare una piattaforma:
 
 ---
 
-## ✅ Requisiti Funzionali
+##  Requisiti Funzionali
 
-### 👤 Registrazione
+###  Registrazione
 
 - Inserimento di: nome utente, email, password
 - Scelta tra utente privato o rivenditore
 - Per i rivenditori: inserimento sito web e luogo sede
 
-### 📢 Inserimento Annuncio
+###  Inserimento Annuncio
 
 - Foto del veicolo
 - Tipo di veicolo (auto/moto)
@@ -55,7 +55,7 @@ L'obiettivo è creare una piattaforma:
 - Prezzo
 - Numero di telefono (opzionale)
 
-### 🔎 Ricerca con Filtri
+###  Ricerca con Filtri
 
 - Per tipologia: solo auto / solo moto
 - Marca e modello
@@ -66,17 +66,17 @@ L'obiettivo è creare una piattaforma:
 - Tipo venditore
 - Luogo
 
-### 💬 Chat interna
+###  Chat interna
 
 - Sistema di messaggistica per contattare privati/rivenditori
 - Possibilità di **inviare, modificare e cancellare** messaggi
 
-### ⭐ Salvataggio
+###  Salvataggio
 
 - Salvare **annunci**
 - Salvare **ricerche**
 
-### 🔔 Notifiche
+###  Notifiche
 
 - In caso di:
   - Sconto su un annuncio salvato
@@ -84,7 +84,7 @@ L'obiettivo è creare una piattaforma:
 
 ---
 
-## 🚫 Requisiti Non Funzionali
+##  Requisiti Non Funzionali
 
 - **Compatibilità**: Android, iOS, Windows
 - **Prestazioni**: Tempi di risposta brevi
@@ -93,47 +93,47 @@ L'obiettivo è creare una piattaforma:
 
 ---
 
-## ⚙️ Funzionalità Avanzate
+##  Funzionalità Avanzate
 
-- 🔒 Verifica rivenditori e annunci
-- 📈 Calcolo del valore di mercato del veicolo
-- 🚨 Rilevamento annunci sospetti (AI, regole)
-- 💰 Calcolo preventivi per finanziamento/assicurazione
-- 🛠️ Stima costi manutenzione futuri
-- 🧾 Verifica storia del veicolo (VIN o targa)
-- 🕒 Suggerimenti per orari migliori di pubblicazione
-- 🚗 Prenotazione test drive per rivenditori professionisti
+-  Verifica rivenditori e annunci
+-  Calcolo del valore di mercato del veicolo
+-  Rilevamento annunci sospetti (AI, regole)
+-  Calcolo preventivi per finanziamento/assicurazione
+-  Stima costi manutenzione futuri
+-  Verifica storia del veicolo (VIN o targa)
+-  Suggerimenti per orari migliori di pubblicazione
+-  Prenotazione test drive per rivenditori professionisti
 
 ---
 
-## 🛠️ Tecnologie Utilizzate
+##  Tecnologie Utilizzate
 
-### 🌐 Frontend
+###  Frontend
 
 - React Native
 - React.js o Vue.js
 
-### 🔙 Backend
+###  Backend
 
 - Django (Python)
 
-### 🗃️ Database
+###  Database
 
 - MongoDB
 - Elasticsearch
 
-### 🔔 Notifiche & Realtime
+###  Notifiche & Realtime
 
 - Firebase Cloud Messaging (FCM)
 - Socket.io
 
-### 📊 Analisi
+###  Analisi
 
 - Google Analytics
 
 ---
 
-## 🧩 Ruoli degli Utenti
+##  Ruoli degli Utenti
 
 | Ruolo         | Funzionalità chiave                                                                      |
 |---------------|------------------------------------------------------------------------------------------|
@@ -144,7 +144,7 @@ L'obiettivo è creare una piattaforma:
 
 ---
 
-## 📌 Diagramma UML
+##  Diagramma UML
 
 _⚠️ UML da completare successivamente._
 
