@@ -1,3 +1,65 @@
+## Elevator pitch
+##  Business
+
+###  Business Model
+
+- **Freemium**: abbonamento mensile che aumenta la visibilità degli annunci nel feed e consente di pubblicare un numero maggiore di annunci.
+- **Marketplace**: applicazione di una fee sulle transazioni interne all'app.
+
+---
+
+###  Problema
+
+Molti acquirenti di veicoli usati temono truffe, annunci poco chiari e mancanza di informazioni affidabili.  
+**MotoCarHub** affronta questo problema offrendo una piattaforma sicura dove privati e rivenditori verificati possono pubblicare annunci. Gli utenti possono confrontare facilmente le opzioni disponibili, valutare le caratteristiche dei veicoli e contattare i venditori con fiducia.
+
+---
+
+###  Soluzione
+
+MotoCarHub facilita l'incontro tra acquirenti e venditori di auto e moto (nuove e usate) tramite una piattaforma:
+
+- Sicura e accessibile
+- Con verifica dei venditori
+- Facile da usare per pubblicare e cercare annunci
+- Ricca di strumenti per confronto, valutazione e contatto
+
+L'obiettivo è rendere il processo di compravendita **trasparente, intuitivo e sicuro**, aiutando gli utenti a trovare veicoli affidabili.
+
+---
+
+###  Competitor
+
+MotoCarHub si distingue dai competitor offrendo:
+
+- **Pagamenti interni all’app**
+- **Verifica degli annunci e dei venditori**
+- **Calcolo automatico del valore di mercato**
+- **Accesso alla storia del veicolo tramite targa/VIN**
+- **Possibilità di richiedere prove su strada** (se disponibili)
+
+---
+
+###  Perché MotoCarHub
+
+MotoCarHub è la scelta ideale per chi cerca un marketplace **sicuro e trasparente** per auto e moto.
+
+- Sistema di **verifica** affidabile
+- **Strumenti avanzati** per confronto e valutazione
+- **Opzioni di finanziamento**
+- Interfaccia intuitiva
+- Esperienza utente fluida e veloce
+
+---
+
+###  Investimenti
+
+ Si richiede un **investimento di 150.000 €** in cambio del **23% dell'applicazione**.
+
+---
+
+
+
 # MotoCarHub
 
 ##  Descrizione del Progetto
