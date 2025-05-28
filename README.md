@@ -162,33 +162,6 @@ L'obiettivo è creare una piattaforma:
 
 ---
 
-##  Tecnologie Utilizzate
-
-###  Frontend
-
-- React Native
-- React.js o Vue.js
-
-###  Backend
-
-- Django (Python)
-
-###  Database
-
-- MongoDB
-- Elasticsearch
-
-###  Notifiche & Realtime
-
-- Firebase Cloud Messaging (FCM)
-- Socket.io
-
-###  Analisi
-
-- Google Analytics
-
----
-
 ##  Ruoli degli Utenti
 
 | Ruolo         | Funzionalità chiave                                                                      |
