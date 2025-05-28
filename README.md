@@ -157,8 +157,7 @@ L'obiettivo è creare una piattaforma:
 -  Calcolo preventivi per finanziamento/assicurazione
 -  Stima costi manutenzione futuri
 -  Verifica storia del veicolo (VIN o targa)
--  Suggerimenti per orari migliori di pubblicazione
--  Prenotazione test drive per rivenditori professionisti
+-  Prenotazione test drive per rivenditori
 
 ---
 
