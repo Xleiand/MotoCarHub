@@ -110,7 +110,6 @@ L'obiettivo è creare una piattaforma:
 - Descrizione dettagliata
 - Luogo
 - Prezzo
-- Numero di telefono (opzionale)
 
 ###  Ricerca con Filtri
 
