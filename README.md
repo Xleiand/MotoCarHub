@@ -1,12 +1,5 @@
 ## Elevator pitch
-##  Business
 
-###  Business Model
-
-- **Freemium**: abbonamento mensile che aumenta la visibilità degli annunci nel feed e consente di pubblicare un numero maggiore di annunci.
-- **Marketplace**: applicazione di una fee sulle transazioni interne all'app.
-
----
 
 ###  Problema
 
@@ -51,6 +44,11 @@ MotoCarHub è la scelta ideale per chi cerca un marketplace **sicuro e trasparen
 - Esperienza utente fluida e veloce
 
 ---
+
+###  Business Model
+
+- **Freemium**: abbonamento mensile che aumenta la visibilità degli annunci nel feed e consente di pubblicare un numero maggiore di annunci.
+- **Marketplace**: applicazione di una fee sulle transazioni interne all'app.
 
 ###  Investimenti
 
