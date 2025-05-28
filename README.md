@@ -143,7 +143,6 @@ L'obiettivo è creare una piattaforma:
 
 ##  Requisiti Non Funzionali
 
-- **Compatibilità**: Android, iOS, Windows
 - **Prestazioni**: Tempi di risposta brevi
 - **Sicurezza**: protezione dei dati e delle comunicazioni
 - **Verifica venditori**: controllo identità e approvazione degli annunci
