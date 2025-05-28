@@ -50,9 +50,6 @@ MotoCarHub è la scelta ideale per chi cerca un marketplace **sicuro e trasparen
 - **Freemium**: abbonamento mensile che aumenta la visibilità degli annunci nel feed e consente di pubblicare un numero maggiore di annunci.
 - **Marketplace**: applicazione di una fee sulle transazioni interne all'app.
 
-###  Investimenti
-
- Si richiede un **investimento di 150.000 €** in cambio del **23% dell'applicazione**.
 
 ---
 
